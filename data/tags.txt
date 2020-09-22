@@ -1,0 +1,30 @@
+Page Data tags
+#pagevariables#		variables read from the page post
+#loadvars#		page variables loaded from database
+#savevars#		page variables saved to current recordset
+#datafile#		database filename
+#includedatabase#	include database tag
+#includesetup#		include setup file tag
+#includemsado#		include the MS ADO file
+#writehead#		write header code
+#writefoot#		write footer code
+#writetable#		write table contents code
+#readtable#		read table contents code
+#navtable#		navigation table
+#tablename#		the current table name
+#add#			add record
+#id#			the record id tag
+
+Filename tags
+#pagesetup#		setup.asp
+#pagemsado#		msado.asp
+#pagerecnav#		recnav.asp
+#pagerecdisplay#	recdisplay.asp
+#pagedatabase#		database.asp
+#pagerecadd#		recadd.asp
+#pagerecedit#		recedit.asp
+#pagerecdelete#		recdelete.asp
+
+Page Navigation
+#gonav#			goes back to Navigation Page (adds "ShowGoBack" from setup.asp)
+
